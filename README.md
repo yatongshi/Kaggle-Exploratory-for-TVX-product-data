@@ -9,7 +9,7 @@ _Main Directive: My goal is to look through the list of repaired components for 
 
 ## 1. Which Components are Outliers Within the Context of Sum Price and Quantity?
 
-   ![Kaggle-Exploratory-for-TVX-product-data](most_money.png) 
+   ![images](most_money.png) 
 
 Comment: we can see that there are 5 components that are way higher than the average sum price and 8 components that have broken more than 15 times.
 
