@@ -1,5 +1,5 @@
 # Kaggle Exploratory for TVX Product Data
-### Here is a link to the full project code and repository: <a href="https://github.com/yatongshi/IBM-HR-Analytics-Employee-Attrition-and-Performance/tree/main"> Kaggle Exploratory for TVX Product Data </a>
+### Here is a link to the full project code and repository: <a href="https://github.com/yatongshi/Kaggle-Exploratory-for-TVX-product-data/tree/main"> Kaggle Exploratory for TVX Product Data </a>
 
 _Main Directive: My goal is to look through the list of repaired components for TVX's cleaning machine and uncover and analyze the components that cost the most._
 
@@ -9,7 +9,7 @@ _Main Directive: My goal is to look through the list of repaired components for 
 
 ## 1. Which Components are Outliers Within the Context of Sum Price and Quantity?
 
-   ![Portfolio](images/job-role.png) (add correct image)
+   ![Kaggle-Exploratory-for-TVX-product-data](most_money.png) 
 
 Comment: we can see that there are 5 components that are way higher than the average sum price and 8 components that have broken more than 15 times.
 
